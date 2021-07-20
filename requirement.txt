@@ -1,0 +1,32 @@
+se tienen que subir el archivo:
+Ejemplo.wav
+la key de Kaggle.json
+Negative.txt
+positive.txt
+Keys de twitter
+USComents.csv
+
+Librerias utilizadas
+nltk
+random
+pickle
+tensorflow
+sklearn
+json
+tweepy
+matplotlib
+time
+pandas
+keras
+glove
+numpy
+statistics
+SpeechRecognition
+TextBlob
+praw
+
+
+teniendo los archivos ya cargados en el colab no debe de haber ningun problema al correr el programa, cuando se pida subir un archivo
+se refiere al kaggle.json, se deben subir las llaves de twitter al codigo y para filtrar por usuario se debe quitar la parte comentada y introducir twitter ID en la celda de twitt stream
+a demás de esto si se tiene dudas hay partes comentadas
+nota son dos archivos que se tienen que correr
